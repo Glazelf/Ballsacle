@@ -1,5 +1,6 @@
 const dictionary = [ // Fill the dictionary with your own set of words
   "ballsac",
+  "sacball",
   "ability",
   "absence",
   "account",
